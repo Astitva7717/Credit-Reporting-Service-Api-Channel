@@ -33,7 +33,7 @@
 		"@fastify/swagger": "7.6.1",
 		"@liaoliaots/nestjs-redis": "^9.0.5",
 		"@nestjs/axios": "^3.0.0",
-		"@nestjs/common": "^10.0.5",
+		"@nestjs/common": "^11.0.16",
 		"@nestjs/config": "^3.0.0",
 		"@nestjs/core": "^10.0.5",
 		"@nestjs/jwt": "^10.1.0",
