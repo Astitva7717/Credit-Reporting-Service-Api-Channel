@@ -73,7 +73,7 @@
 		"nest-winston": "^1.8.0",
 		"nestjs-ethers": "^1.0.3",
 		"papaparse": "^5.3.2",
-		"plaid": "^15.0.0",
+		"plaid": "^16.0.0",
 		"reflect-metadata": "^0.1.13",
 		"rimraf": "^3.0.2",
 		"rxjs": "^7.5.7",
